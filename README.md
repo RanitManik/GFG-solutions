@@ -31,12 +31,12 @@ The solutions are organized by GeeksforGeeks problem name. Each problem has its 
 ```
 GFG-solutions
 │
-├── Problem1
+├── Easy/Problem1
 │   ├── solution.js
 │   ├── README.md
 │   └── NOTES.md
 │
-├── Problem2
+├── Medium/Problem2
 │   ├── solution.java
 │   ├── solution.py
 │   └── README.md
